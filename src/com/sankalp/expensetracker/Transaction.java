@@ -4,7 +4,7 @@ import java.time.LocalDate;
 
 
 class Transaction {
-    String type; // income or expense
+    String type; // income or expens
     String category;
     double amount;
     LocalDate date;
